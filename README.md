@@ -239,17 +239,3 @@ Watch full video - https://www.youtube.com/watch?v=lnFPvtCSsLA&t=49s
 
 ![](https://j.gifs.com/58pxVx.gif)
 
-
-
-# In case you want to cite my work
-Abhishek Singh,”asingh33/CNNGestureRecognizer: CNNGestureRecognizer (Version 1.3.0)”, Zenodo. http://doi.org/10.5281/zenodo.1064825, Nov. 2017.  
-Do tell me how you used this work in your project. Would love to see your work. Good Luck!
-
-
-
-Dont forget to check out my other github project where I used this framework and applied SuperVised machine learning technique to train the Chrome Browser's TRex character :)
-https://techkblog.com/teach-an-ai-to-play-game-using-supervised-learning/
-Youtube link - https://youtu.be/ZZgvklkQrss
-
-![](https://j.gifs.com/DRg4mn.gif)
-
